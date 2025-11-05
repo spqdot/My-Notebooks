@@ -1,1 +1,1 @@
-# My-Notebooks, Shrabani Panigrahi
+# My-Notebooks
