@@ -17,6 +17,7 @@ def main():
         st.success(f"Result: {result}")
     else:
         st.info("Click Add to compute the sum.")
+        st.info("This project is designed by Shrabani.")
 
 
 if __name__ == "__main__":
